@@ -1,2 +1,0 @@
-# Slowly-Changing-Dimension
- 
